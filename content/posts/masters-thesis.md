@@ -1,7 +1,7 @@
 +++
 title = "Masters Thesis: The Beginnings of Algebraic Topology in Free Analysis"
 authors = ["Lucas Kerbs"]
-date = 2023-11-27T20:25:00-06:00
+date = 2023-12-02T15:31:00-06:00
 categories = ["FreeAnalysis"]
 draft = false
 Katex = true

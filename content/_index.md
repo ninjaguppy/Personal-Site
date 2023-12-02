@@ -73,4 +73,6 @@ address:
 
 # Bio
 
-- [ ] TODO: Write the Bio here
+I am a graduate student at Washington University in Saint Louis. 
+I am interested in the interections of Topology, Geometry, and Dynamics. 
+

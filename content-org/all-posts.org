@@ -7,8 +7,22 @@
 :HUGO_EXPORT_SECTION: blog
 :EXPORT_HUGO_FRONT_MATTER_FORMAT: toml
 :END:
+** DONE I (not so secretly) Love the Liberal Arts
+CLOSED: [2023-12-02 Sat 15:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: modern-tire
+:END:
+
+While I am studying mathematics (and loving it), my educational roots lie in the
+Liberal Arts and the Socratic Method. During my undergraduate years I had a lot
+of space to write about the random (non-mathematical) ideas that were running
+through my head. Now that I am in graduate school, that sort of time is hard to
+come by. When I get the chance, I will occasionally post on my personal
+blog---posts range from my thoughts on chalkboards to comparing Tulips with Star
+Wars. If you feel so inclined, [[https://moderntiresias.com/][give it a read]]!
+
 ** DONE Masters Thesis: The Beginnings of Algebraic Topology in Free Analysis :@FreeAnalysis:
-CLOSED: [2023-11-27 Mon 20:25]
+CLOSED: [2023-12-02 Sat 15:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: masters-thesis
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :Katex true
