@@ -10,7 +10,7 @@
 ** DONE I (not so secretly) Love the Liberal Arts
 CLOSED: [2023-12-02 Sat 15:30]
 :PROPERTIES:
-:EXPORT_FILE_NAME: modern-tire
+:EXPORT_FILE_NAME: modern-tiresias
 :END:
 
 While I am studying mathematics (and loving it), my educational roots lie in the

@@ -76,3 +76,7 @@ address:
 I am a graduate student at Washington University in Saint Louis. 
 I am interested in the interections of Topology, Geometry, and Dynamics. 
 
+I have a Master's Degree from Cal Poly, San Luis Obispo where I completed my
+thesis under the direction of Dr. Ryan Tully-Doyle. You can read more about my
+thesis [here]({{< relref "masters-thesis" >}}).
+
