@@ -20,7 +20,7 @@ hideLastMod = true
 </div>
 </div>
 <p style="margin-bottom:0.5cm;">
-I am a first year PhD student at Washington University in Saint Louis. During my
+I am a fourth year PhD student at Washington University in Saint Louis. During my
 undergraduate degree I had lots of space to write. While I love spending my days
 thinking about sheaves, analytic functions, and cohomology, I wanted a place to
 get the thoughts out of my head and onto a page.

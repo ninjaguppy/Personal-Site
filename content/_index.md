@@ -71,12 +71,10 @@ address:
     #description: The radioactive element astatine exists only in trace amounts in nature. Its properties can therefore only be explored by study of the minute quantities of artificially produced isotopes or by performing theoretical calculations. One of the most important properties influencing the chemical behaviour is the energy required to remove one electron from the valence shell, referred to as the ionization potential.
 ---
 
-# Bio
 
-I am a graduate student at Washington University in Saint Louis. 
-I am interested in the interections of Topology, Geometry, and Dynamics. 
+I am a graduate student at Washington University in Saint Louis working under 
+Steven Frankel. When I am not playing with my cats, I tend to think about 
+flows, Cannon-Thurston Maps, and wiggly circles.
 
-I have a Master's Degree from Cal Poly, San Luis Obispo where I completed my
-thesis under the direction of Dr. Ryan Tully-Doyle. You can read more about my
-thesis [here]({{< relref "masters-thesis" >}}).
-
+During my Master's at Cal Poly SLO, I worked with Ryan Tully-Doyle. You can read 
+more about my thesis [here]({{< relref "masters-thesis" >}}).
