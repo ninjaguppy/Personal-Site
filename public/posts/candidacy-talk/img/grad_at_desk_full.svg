@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="grad_at_desk_full.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5154914"
+     inkscape:cx="286.37577"
+     inkscape:cy="254.37294"
+     inkscape:window-width="1784"
+     inkscape:window-height="1038"
+     inkscape:window-x="10"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Desk"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.685;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="42.005527"
+         height="23.927198"
+         x="96.961105"
+         y="82.231247" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.685"
+         d="M 82.414536,94.64613 V 70.718932 h 42.005524 l 0.10316,0.07534 14.56269,11.371862"
+         id="rect2"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.685001;stroke-dasharray:none;stroke-opacity:1"
+         d="M 82.424052,70.72115 96.947198,82.217343"
+         id="path2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.685001;stroke-dasharray:none;stroke-opacity:1"
+         d="m 82.311381,94.345536 14.58166,11.891304"
+         id="path4"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Axes">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.685001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="M 32.940722,83.74482 H 159.29543"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.685003;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="M 44.013036,94.817134 V 31.793632"
+       id="path8"
+       inkscape:transform-center-y="-25.989076" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.685001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="M 53.790329,77.98214 4.4396218,105.76511"
+       id="path9"
+       inkscape:transform-center-y="11.456893"
+       inkscape:transform-center-x="20.35081" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Inf">
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.685001;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path10"
+       cx="136.28362"
+       cy="26.647635"
+       r="0.761361" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.685001;stroke-dasharray:none;stroke-opacity:1"
+       x="142.54935"
+       y="26.973511"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.685"
+         x="142.54935"
+         y="26.973511">$\inftj$</tspan></text>
+  </g>
+</svg>
