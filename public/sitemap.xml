@@ -3,55 +3,35 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>http://localhost:1313/</loc>
-        <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://localhost:1313/categories/</loc>
-        <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://localhost:1313/posts/</loc>
-        <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://localhost:1313/categories/topology/</loc>
-        <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://localhost:1313/posts/candidacy-talk/</loc>
-        <lastmod>2025-07-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://localhost:1313/categories/freeanalysis/</loc>
+        <loc>http://localhost:50432/</loc>
         <lastmod>2023-12-02T15:31:00-06:00</lastmod>
     </url>
     
     <url>
-        <loc>http://localhost:1313/posts/masters-thesis/</loc>
+        <loc>http://localhost:50432/posts/masters-thesis/</loc>
         <lastmod>2023-12-02T15:31:00-06:00</lastmod>
     </url>
     
     <url>
-        <loc>http://localhost:1313/posts/modern-tiresias/</loc>
+        <loc>http://localhost:50432/posts/</loc>
+        <lastmod>2023-12-02T15:31:00-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:50432/posts/modern-tiresias/</loc>
         <lastmod>2023-12-02T15:30:00-06:00</lastmod>
     </url>
     
     <url>
-        <loc>http://localhost:1313/about/</loc>
+        <loc>http://localhost:50432/about/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:1313/cv/</loc>
+        <loc>http://localhost:50432/cv/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:1313/tags/</loc>
+        <loc>http://localhost:50432/tags/</loc>
     </url>
     
 </urlset>

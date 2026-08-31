@@ -21,7 +21,6 @@ pygmentsStyle = "native"
 # Taxonomies (only tags and categories are supported out of the box but you can
 # add more)
 [taxonomies]
-    category = "categories"
     tag = "tags"
 
 # Configure permalinks style
@@ -63,7 +62,9 @@ pygmentsStyle = "native"
     # missing it will fallback to that one.
     description = "This is my website! I'm not sure where this text going but if you see it let me know!"
     # Author of the site
-    authorName = "Lucas Kerbs"
+    [params.author]
+        name = "Lucas Kerbs"
+        email = "kerbs@wustl.edu"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
         name = "img/pfp.jpeg"
