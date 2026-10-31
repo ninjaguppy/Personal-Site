@@ -60,7 +60,7 @@ pygmentsStyle = "native"
 [params]
     # Site description. Individual pages can have descriptions too but if
     # missing it will fallback to that one.
-    description = "This is my website! I'm not sure where this text going but if you see it let me know!"
+    description = "I am a geometric topologist studying hyperbolic 3-manifolds, sphere-filling curves, and free-by-cyclic groups. I have two cats!"
     # Author of the site
     [params.author]
         name = "Lucas Kerbs"
