@@ -84,6 +84,7 @@ more about my thesis [here]({{< relref "masters-thesis" >}}).
 2027.**
 
 Where you might have seen me:
+- AMS Fall Sectional, Univ of Minnesota at Duluth, October 2025 
 - SLMath Recent Progress in Topological and Geometric Structures in Low 
 Dimensions, Berkeley CA, January - May 2026
 - AMS Fall Sectional, Saint Louis Univeristy, September 2025
