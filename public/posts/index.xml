@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lucas Kerbs</title>
-    <link>http://localhost:50432/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content on Lucas Kerbs</description>
     
     <language>en-us</language>
@@ -9,7 +9,7 @@
     <webMaster>kerbs@wustl.edu (Lucas Kerbs)</webMaster>
     <lastBuildDate>Sat, 02 Dec 2023 15:31:00 -0600</lastBuildDate>
     
-    <atom:link href="http://localhost:50432/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
