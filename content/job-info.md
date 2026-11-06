@@ -4,10 +4,19 @@ unlisted = true
 date = 2026-11-01
 draft = true
 Katex = true
+robots = "noindex, nofollow"
+
+[sitemap]
+  disable = true
+
+[build]
+  list = "never"
+  render = "always"
 +++
 
 Thank you so much for agreeing to write me a letter of recommendation. Below you 
-can find my application materials as well as some photos of my cats.
+can find my application materials as well as some
+[photos of my cats]({{< relref "cats" >}}).
 
 # Preprints
 
@@ -56,8 +65,9 @@ such that, for each rational \\(u\in \Sigma_0\\), there is a
 
 # Other Materials
 
-[Link to Research Statement](/files/lk-research-statement.pdf)
+[Link to Research Statement](/files/lk-research-statement-2026.pdf)
 
-[Link to Teaching Statement](/files/lk-teaching-statement.pdf)
+[Link to Teaching Statement](/files/lk-teaching-statement-2026.pdf)
 
-[Link to photos of Artemis and Apollo (the aforementioned cats)]()
+[Link to photos of my cats]({{< relref "cats" >}})
+
