@@ -2,7 +2,7 @@
 title = "Let's get Lucas a job!"
 unlisted = true
 date = 2026-11-01
-draft = true
+draft = false
 Katex = true
 robots = "noindex, nofollow"
 
