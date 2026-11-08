@@ -24,7 +24,8 @@ Below you can find early copies of my preprints. I kindly ask that you do not
 feed them into an LLM.
 
 ## Pinched Jordan Curves, Cannon-Thurston Maps, and their Decompositions
-Joint with Steven Frankel. [Link to paper](/files/pjc-laminations-11-03-26.pdf)
+Joint with Steven Frankel. [Link to paper](/files/pjc-laminations-11-8.pdf) 
+(Last updated 11-8-2026)
 
 *Main Theorem:*
 Suppose that \\(f \colon S^1 \to S^2\\) is continuous and surjective 
