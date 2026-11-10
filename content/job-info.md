@@ -66,7 +66,7 @@ such that, for each rational \\(u\in \Sigma_0\\), there is a
 
 # Other Materials
 
-[Link to Research Statement](/files/lk-research-statement-2026.pdf)
+[Link to Research Statement](/files/lk-research-statement-2026.pdf) (Updated November 10th)
 
 [Link to Teaching Statement](/files/lk-teaching-statement-2026.pdf)
 
